@@ -1,0 +1,9 @@
+SignalScope/
+├── SecureListenerKit/
+│   ├── PortDefense.ps1
+│   ├── ListenerAudit.ps1
+│   ├── ListenerManifest.md
+│   ├── PrivacyBoundary.md
+│   └── Logs/
+│       └── SampleViolationLog.txt
+├── README.md (SignalScope overview)
